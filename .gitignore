@@ -1,0 +1,9 @@
+# Notebook and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local Pew files: redistribution permission has not been verified
+W127_May23/

@@ -1,0 +1,10 @@
+name: data-privacy-concern
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pandas
+  - pyreadstat
+  - matplotlib
+  - seaborn
